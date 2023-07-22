@@ -1,0 +1,14 @@
+# Arquivos binários
+*.class
+*.jar
+
+# Arquivos gerados automaticamente
+/bin/
+/out/
+/target/
+
+# eclipse config files
+.classpath
+.project
+/.settings/
+/lib/
